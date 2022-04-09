@@ -9,7 +9,7 @@
 
 ## 简介
 
-本项目为浙江大学学位论文的 LaTeX 模板，包含本科生、硕士生与博士生模板，以及英文硕博士模板。
+本项目为浙江大a学学位论文的 LaTeX 模板，包含本科生、硕士生与博士生模板，以及英文硕博士模板。
 
 This is a LaTeX template for Zhejiang University graduation thesis/design.
 It provides undergraduate and graduate (master and doctor) templates.

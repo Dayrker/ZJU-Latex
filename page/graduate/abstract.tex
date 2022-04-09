@@ -1,0 +1,47 @@
+\cleardoublepage
+\chapternonum{摘要}
+近年来，个人媒介以及互联网技术的发展产生了海量的数据资源，为机器学习的飞速发展提供了绝佳的土壤，但随之而来的海量数据的标注问题也面临着巨大的挑战。
+另外,在某些实际应用中，单个的正向标签往往更容易被获得或引起人们的关注。因此，对仅有部分正例数据（被标注为正例的样本）与无标注数据的场景展开研究，充分挖掘隐藏在这些数据中的潜在信息，开发有效的正例无标注学习算法具有重要的理论意义。
+但现有的正例无标注学习大多属于集中式学习，需要将所有数据及其标签传输至一个数据融合中心进行处理。
+然而在实际应用中，数据通常受到多种因素制约而分布式地存储在不同数据节点中，受限于通信带宽以及通信成本等问题难以全部传输至数据融合中心进行处理，这迫切需要我们开发一套有效的分布式正例无标注学习算法。
+基于上述考虑，针对分布式场景，本文研究了基于正例无标注数据的分布式学习问题。
+主要工作和创新点如下：
+
+首先，本文针对正例和无标注数据设计了带自适应门限的标签校准损失函数，
+利用随机特征映射来逼近高维核函数空间，并使用基于锚数据点的流形约束提升半监督学习的性能。
+基于各节点的损失函数{构造}了去中心化的全局优化问题，
+并使用交替乘子法使得各节点在仅需要对邻居节点传递少量信息的条件下，也能获得全局最优解，从而推导出分布式正例无标注学习算法。
+最后通过仿真实验验证了所提算法的优越性能。
+
+其次，针对多标签分类中有限的标注数据上仅有单个标签被标注为正例的情况，研究了基于单正例多标签数据的半监督学习问题。设计了可以同时从完全未标注的数据和单个标签被标注为正例的数据中提取信息的两种损失函数，且使用基于锚数据点的流形约束提升分类性能。
+基于各节点的损失函数构造了去中心化的全局优化问题，并使用分布式梯度下降算法对全局优化问题进行求解。随后，引入事件触发机制在降低网络的通信频次、减少网络传输代价的同时保持了良好的学习性能。
+最终通过仿真实验验证了所提算法的效果。
+
+最后，借鉴随机扰动的思想，结合了最差噪声扰动和最差连接扰动两种扰动方式，提出了基于锚数据点的分布式全局最坏扰动策略。基于该扰动策略对上述提出的两种正例无标注学习算法进行优化以进一步提升分类性能。并通过在多种数据集上的仿真实验验证了所提方法有效提升了正例无标注学习的性能。
+
+关键词：正例无标注学习，半监督学习，流形约束，分布式信息处理，事件触发，最坏扰动。
+
+\cleardoublepage
+\chapternonum{Abstract}
+In recent years, the development of personal media and the Internet technology has produced a huge amount of data resources, which provides an excellent soil for the rapid development of machine learning, but the subsequent problem of labeling massive data is also facing huge challenges.
+In addition, in some practical applications, a single positive label is often easier to obtain and attract people's attention. 
+Therefore, it is of great theoretical significance to carry out research on only some positive data (samples marked as positive) and unlabeled data, to fully mine the potential information hidden in these data, and to develop effective positive and unlabeled learning algorithms.
+However, the existing positive and unlabeled learning are mostly centralized learning, 
+which means that all data and their labels need to be transmitted to a data fusion center for processing.
+But in practical applications, data is usually stored in different data nodes distributively due to the constraints of various factors, and it is difficult to transmit all data to the data fusion center for processing due to problems such as communication bandwidth and communication cost.
+Therefore, it is urgent for us to develop a set of effective distributed positive and unlabeled learning algorithms.
+Based on the above considerations, this paper studies the distributed algorithm based on positive and unlabeled data. 
+The main work and innovations are as follows:
+
+First, this paper designs a label calibration loss function with the adaptive threshold for positive and unlabeled data, uses random feature mapping to approximate the high-dimensional kernel function space, and utlizes anchor-based manifold regularization to improve the performance of semi-supervised learning.
+Based on each node's loss function, a decentralized global optimization problem is constructed, and the alternating direction method of multipliers is used to enable each node to obtain a global optimal solution under the condition that only a small amount of information needs to be transmitted to neighbor nodes, thereby deriving the distributed positive and unlabeled learning algorithm. Finally, simulation experiments verify the superior performance of the proposed algorithm.
+
+Secondly, for the situation where only a single label is marked as a positive on the limited labeled data in multi-label classification, the problem of semi-supervised learning based on single positive multi-label data is studied.
+We design two loss functions that can extract information from completely unlabeled data and data with a single label labeled as positive, and use anchor-based manifold regularization to improve classification performance.
+Based on each node's loss function, a decentralized global optimization problem is proposed, and the distributed gradient descent algorithm is used to solve the global optimization problem.
+Subsequently, the introduction of an event trigger mechanism reduces the frequency of network communication and reduces network transmission costs while maintaining good learning performance. Finally, simulation experiments verify the effect of the proposed algorithm.
+
+Finally, drawing on the idea of random disturbance, combining the two perturbation methods of worst noise perturbation and worst connection perturbation, a distributed global worst perturbation strategy based on anchor data points is proposed. Based on this perturbation strategy, the two positive and unlabeled learning algorithms proposed above are optimized to further improve the classification performance.
+And the simulation experiments on various datasets verify that the proposed method effectively improves the performance of positive and unlabeled learning.
+
+Key words: positive and unlabeled learning, semi-supervised learning, manifold regularization, distributed information processing, event trigger, worst perturbation.

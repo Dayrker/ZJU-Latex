@@ -1,0 +1,73 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10.0pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.1}{\ignorespaces 三种机器学习类型。\relax }}{2}{figure.caption.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces 一个半监督学习任务的例子。\relax }}{4}{figure.caption.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.3}{\ignorespaces 分布式网络中的节点示意图。\relax }}{6}{figure.caption.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.4}{\ignorespaces 本文的结构安排。\relax }}{8}{figure.caption.13}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10.0pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces {数据流形图示意图}\relax }}{13}{figure.caption.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 在$MultipleGaussian$数据集上，PTR=5\%时dPU算法基于不同比例参数$\sigma $的稳态MCR值。\relax }}{23}{figure.caption.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces 在$MultipleGaussian$数据集上，PTR=5\%时dPU算法基于不同锚点阈值$\zeta $的稳态MCR值。\relax }}{23}{figure.caption.18}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces 在$MultipleGaussian$数据集上，PTR=5\%时dPU算法基于不同锚点阈值$\zeta $的锚点数据集大小。\relax }}{24}{figure.caption.19}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces 在$MultipleGaussian$数据集上，PTR=5\%时基于不同核函数的dPU算法在不同映射维度$D$上的稳态MCR值。\relax }}{25}{figure.caption.20}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces 在$MultipleGaussian$数据集上，PTR=5\%时dPU算法基于不同映射维度$D$的计算时间。\relax }}{25}{figure.caption.21}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces 在$MultipleGaussian$数据集上，不同PTR条件下不同算法的稳态MCR值。\relax }}{26}{figure.caption.22}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10.0pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 一个多标签数据的例子。\relax }}{29}{figure.caption.25}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces {使用ResNet作为特征提取网络的损失函数计算框架。}\relax }}{31}{figure.caption.26}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 使用ResNet作为特征提取网络并使用标签预测策略的算法框架。\relax }}{34}{figure.caption.27}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces 在$Pascal\nobreakspace {}Voc$数据集上，LTR=60\%时dSPUM算法基于不同损失函数在不同比例参数$\sigma $下的mAP值。\relax }}{43}{figure.caption.30}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces 在$Pascal\nobreakspace {}Voc$数据集上，LTR=60\%且$\sigma =1$时dSPUM算法基于不同损失函数在不同锚点阈值$\zeta $下的mAP值。\relax }}{44}{figure.caption.31}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces {在$Pascal\nobreakspace {}Voc$数据集上，LTR=60\%且$\sigma =1$时dSPUM算法基于不同锚点阈值$\zeta $得到的平均锚点数据集大小。}\relax }}{44}{figure.caption.32}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces {在$Pascal\nobreakspace {}Voc$数据集上，LTR=60\%时dSPUM算法基于$l_{\mathrm {RLE}}$损失函数在不同正类标签数量期望值$k$下的mAP值。}\relax }}{45}{figure.caption.33}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces {在$Pascal\nobreakspace {}Voc$数据集上，$\text {LTR=60\%}$时dSPUM算法在不同损失函数和事件触发阈值$\delta $下的mAP值。}\relax }}{46}{figure.caption.34}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces {在$Pascal\nobreakspace {}Voc$数据集上，$\text {LTR=60\%}$时dSPUM算法在不同损失函数和事件触发阈值$\delta $下的事件触发频率MON。}\relax }}{46}{figure.caption.35}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces 在$Pascal\nobreakspace {}Voc$数据集上，LTR=60\%且$\delta =0.6$的条件下dSPUM算法在训练轮数50-150时各节点 $\bm {\varPsi }_j\left (t\right )$相比于$\bm {\varPsi }_j\left (t_j^{event}\right )$的变化率。\relax }}{47}{figure.caption.36}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces 在$Pascal\nobreakspace {}Voc$数据集上，LTR=60\%且$\delta =0.6$的条件下dSPUM算法在训练轮数50-150时各节点 事件的触发情况。\relax }}{47}{figure.caption.37}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.12}{\ignorespaces {在$Pascal\nobreakspace {}Voc$数据集上，在不同观测标签数量下dSPUM算法基于不同损失函数的mAP值。}\relax }}{48}{figure.caption.38}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.13}{\ignorespaces 对不同算法进行Bonferroni-Dunn统计检验的结果。\relax }}{51}{figure.caption.41}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10.0pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces {一个经过dropout扰动的神经网络。}\relax }}{54}{figure.caption.42}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces {将ResNet50的参数也加入优化的 $\mathrm {dSPUM}-{l_{\mathrm {RLE}}}$算法损失函数计算框架。}\relax }}{55}{figure.caption.43}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 最坏连接扰动应用于全局可能出现的截断现象。\relax }}{59}{figure.caption.45}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 最坏加性扰动和连接扰动在单层参数上的结合。\relax }}{59}{figure.caption.46}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces 在$Pascal\nobreakspace {}Voc$数据集上，PTR=10\%时 不同量级的扰动锚点阈值参数$\zeta _p$对mAP值的影响。\relax }}{60}{figure.caption.47}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces 在$Pascal\nobreakspace {}Voc$数据集上，PTR=10\%时 不同量级的扰动锚点阈值参数$\zeta _p$对锚点数据集大小的影响。\relax }}{61}{figure.caption.48}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces 在$Pascal\nobreakspace {}Voc$数据集上，不同PTR时不同类型的扰动对mAP值的影响。\relax }}{61}{figure.caption.49}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10.0pt}

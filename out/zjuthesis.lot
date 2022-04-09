@@ -1,0 +1,27 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10.0pt}
+\defcounter {refsection}{0}\relax 
+\addvspace {10.0pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.1}{\ignorespaces 数据描述\relax }}{26}{table.caption.23}%
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.2}{\ignorespaces 不同算法在真实数据集上的性能（MCR）比较\relax }}{27}{table.caption.24}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10.0pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {3.1}{\ignorespaces 数据描述\relax }}{48}{table.caption.39}%
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {3.2}{\ignorespaces 不同算法在各数据集上基于不同LTR的性能（mAP）比较\relax }}{49}{table.caption.40}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10.0pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.1}{\ignorespaces 数据描述\relax }}{61}{table.caption.50}%
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.2}{\ignorespaces 各数据集扰动参数设置\relax }}{62}{table.caption.51}%
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.3}{\ignorespaces 基于不同扰动策略的dPU算法在PTR$=10\%$时在各数据集上的MCR（\%）表现。\relax }}{62}{table.caption.52}%
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.4}{\ignorespaces 基于不同扰动策略的dSPUM算法在LTR$=10\%$时在各数据集上的mAP（\%）表现。\relax }}{63}{table.caption.53}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10.0pt}

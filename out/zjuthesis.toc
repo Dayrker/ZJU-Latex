@@ -1,0 +1,107 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{致谢}{I}{section*.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{摘要}{III}{section*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abstract}{V}{section*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{目录}{VII}{section*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{图目录}{IX}{section*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{表目录}{XI}{section*.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1\hspace {.3em}}绪论}{1}{chapter.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}研究背景与意义}{1}{section.0.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}国内外研究现状}{3}{section.0.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}半监督学习}{3}{subsection.0.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}正例无标注学习}{4}{subsection.0.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}分布式信息处理}{5}{section.0.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}本文研究内容与结构安排}{7}{section.0.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.1}本文研究内容与创新点}{7}{subsection.0.1.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.2}本文结构安排}{8}{subsection.0.1.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2\hspace {.3em}}分布式正例无标注学习}{11}{chapter.0.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}引言}{11}{section.0.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}预备知识}{11}{section.0.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}随机特征映射}{12}{subsection.0.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}流形约束}{13}{subsection.0.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}带自适应门限的正例无标注学习}{13}{section.0.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}分布式优化}{15}{section.0.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}交替乘子法}{15}{subsection.0.2.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}收敛性分析}{18}{subsection.0.2.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}仿真实验与结果}{21}{section.0.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}模拟数据集}{22}{subsection.0.2.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}真实数据集}{26}{subsection.0.2.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}本章小结}{28}{section.0.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3\hspace {.3em}}分布式单正例无标注多标签学习}{29}{chapter.0.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}引言}{29}{section.0.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}问题描述}{30}{section.0.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}基于单正例无标注多标签数据的半监督学习}{31}{section.0.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}标签平滑}{32}{subsection.0.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}正类数量约束和标签预测}{33}{subsection.0.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}分布式优化}{36}{section.0.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}分布式梯度下降}{36}{subsection.0.3.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}收敛性分析}{37}{subsection.0.3.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.3}事件触发策略}{40}{subsection.0.3.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}仿真实验与结果}{41}{section.0.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.1}参数选取}{43}{subsection.0.3.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.2}性能比较}{48}{subsection.0.3.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}本章小结}{51}{section.0.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4\hspace {.3em}}基于最坏扰动的分布式优化}{53}{chapter.0.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}引言}{53}{section.0.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}问题描述与预备知识}{53}{section.0.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}最坏扰动分析}{54}{section.0.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}基于锚点数据的分布式最坏扰动策略}{56}{section.0.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}仿真实验与结果}{59}{section.0.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}本章小结}{62}{section.0.4.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5\hspace {.3em}}总结与展望}{65}{chapter.0.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{参考文献}{67}{section*.54}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{作者简历}{75}{section*.56}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{攻读硕士学位期间的研究成果}{77}{section*.59}%
